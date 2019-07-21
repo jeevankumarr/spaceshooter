@@ -1,16 +1,13 @@
-# spaceshooter
+# SpaceShooter
 
-A new Flutter project.
+## My First Game
+This is my first game so be gentle. 
 
-## Getting Started
+![ ](game.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Previous Work
+This game has been inspired by a previous project by Sumant Raj and Manoj Bisarahalli. You can read 
+more about it [here](https://blog.geekyants.com/building-a-2d-game-in-flutter-a-comprehensive-guide-913f647846bc). 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

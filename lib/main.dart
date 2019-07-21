@@ -7,7 +7,7 @@ import 'package:flame/components/animation_component.dart';
 
 var game;
 
-const DRAGONSPEED = 20.0;
+const DRAGONSPEED = 120.0;
 const DRAGON_SIZE = 40.0;
 const BULLET_SPEED = 60.0;
 const BULLET_SIZE = 20.0;
